@@ -1,6 +1,6 @@
 body {
     background-color: #474e5d;
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Lucida Console", "Courier New", monospace;
     margin: 50px;
     margin-left: 400px;
     margin-right: 400px;
@@ -18,7 +18,7 @@ h1 {
 }
 
 p {
-    font-size: 12pt;
+    font-size: 15pt;
     color: lightgray;
     text-align: center;
 }
