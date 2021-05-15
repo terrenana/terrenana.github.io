@@ -22,3 +22,11 @@ p {
     color: lightgray;
     text-align: center;
 }
+
+li {
+    color: white;
+}
+
+ul {
+    color: grey;
+}
